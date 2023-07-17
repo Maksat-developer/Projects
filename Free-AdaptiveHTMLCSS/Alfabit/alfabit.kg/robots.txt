@@ -1,0 +1,19 @@
+
+  User-agent: *
+
+  Allow: /
+
+  Disallow: /account*
+
+  Disallow: */order*
+
+  Disallow: *rid=*
+
+  Disallow: *cur_from=*
+
+  Disallow: *cur_to=*
+
+  Disallow: *city=*
+
+  Sitemap: https://alfabit.org/sitemap.xml
+  
